@@ -17,7 +17,7 @@ function showPanel (panel) {
     hidePanel();
     panel.classList.remove('hidden')
 }
-setTimeout(()=>showPanel(input), 3000)
+setTimeout(()=>showPanel(input), 5000)
 
 
 
